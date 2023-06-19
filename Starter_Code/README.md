@@ -1,4 +1,5 @@
-Purpose othe Chanleenge
+Purpose of the Challenge
+
 Deliverable 1: Using Jupyter notebook to code, imported data using terminal and updating the uk_food database.
 Deliverable 2: Using Jupyter notebook with a code that performs the exploratory analysis queries in the uk_food database.
 
